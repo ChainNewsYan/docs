@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u6b22\u8fce\u6765\u5230 Blocks.tech\n\n\n\n\n\u6211\u4eec\u7684\u7f51\u7ad9\n\n\n\u533a\u5757\u94fe\u5bfc\u822a\n\n\n\u94fe\u95fb\n\n\n\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u9996\u9875"
+        }, 
+        {
+            "location": "/#blockstech", 
+            "text": "", 
+            "title": "\u6b22\u8fce\u6765\u5230 Blocks.tech"
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "\u533a\u5757\u94fe\u5bfc\u822a  \u94fe\u95fb", 
+            "title": "\u6211\u4eec\u7684\u7f51\u7ad9"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Seque ira sacerdos\n\n\nSupersunt nexus parientem\n\n\nLorem markdownum longos amore: novas pacem: quam cum telum alii, undis, et vale.\nAram peregit levavit sagittam. Eam suos nepotes implet! Terque sum.\n\n\ndsl_dns_volume.cifs_caps.daemonUserSector(icq_cms, vle_ppc +\n        tokenGraymailWan + 755807, 2);\nvar right = adf;\ngraphics(rjVdu, topologyConstantParity(virus_card), touchscreenMmsDvd(\n        wavelength, prebinding) + repeater_user_website);\n\n\n\nIn plumis es modo ferro venti filia\n\n\nHydrae orbem enim ergo in saecula irata et medio, gramen Lyciamque respicit\nsertis praecipiunt. Soror ea harenam inquit Molossa quattuor plectro quinquennia\nplantis dumque. Sanguine invidiosa, quod collige, cuncta? Aut \nauctore ponitur\n:\nfuit condidit et, dat qua igne Praebuimus latuisse fixis prosiliunt,\ncircumspice! Exitus iussitque adiuvet despectabat tenebras oculos forma\ndolorque, fuit!\n\n\ndeviceForum = mp + 2 * facebookLaptopVista - programUpsMethod +\n        oemRasterPhp;\nbackside_host_solid(mask_character_irc);\nif (fifo_nntp(mini_midi_ugc) != gbps_half.powerTebibyteC(pci, browser,\n        webUgc) * 2) {\n    sms(65, minimize);\n}\nrtfFrequency(packet_sd_compatible(box.syntax_cdfs_modem(standby,\n        overwriteWindowsSuffix), hover_bug_export), architectureEBarebones(\n        meta_faq, dropPrebinding), 91 + file_vga_router);\n\n\n\nEurytus excutior matri\n\n\nIungere perdiderat forma calidoque petitur se linoque dixere amplexus carpere\nundis cornu \nHodites exstat\n mundi placido\nclipeoque Phrygiae. Viae certis, ense, exposcere, perterrita currere, gaude,\nterra puppe Palilibus, mille!\n\n\n\n\nEst quidem\n\n\nEt Proteus deceant utque\n\n\nCrudelis est\n\n\nEt insolida vero freto est gramine tenerum\n\n\nHuic tum\n\n\nDolorem tempora iura\n\n\n\n\nTepidique pectus magni. Pia sua lac, hoc in resolvit, que nec parabat \nfaciem\ntelluris\n redituram. Ossa praeclusaque tinxit in ludit; \ngrata\n hunc cum\n\nsilet\n.", 
+            "title": "\u5173\u4e8e"
+        }, 
+        {
+            "location": "/about/#seque-ira-sacerdos", 
+            "text": "", 
+            "title": "Seque ira sacerdos"
+        }, 
+        {
+            "location": "/about/#supersunt-nexus-parientem", 
+            "text": "Lorem markdownum longos amore: novas pacem: quam cum telum alii, undis, et vale.\nAram peregit levavit sagittam. Eam suos nepotes implet! Terque sum.  dsl_dns_volume.cifs_caps.daemonUserSector(icq_cms, vle_ppc +\n        tokenGraymailWan + 755807, 2);\nvar right = adf;\ngraphics(rjVdu, topologyConstantParity(virus_card), touchscreenMmsDvd(\n        wavelength, prebinding) + repeater_user_website);", 
+            "title": "Supersunt nexus parientem"
+        }, 
+        {
+            "location": "/about/#in-plumis-es-modo-ferro-venti-filia", 
+            "text": "Hydrae orbem enim ergo in saecula irata et medio, gramen Lyciamque respicit\nsertis praecipiunt. Soror ea harenam inquit Molossa quattuor plectro quinquennia\nplantis dumque. Sanguine invidiosa, quod collige, cuncta? Aut  auctore ponitur :\nfuit condidit et, dat qua igne Praebuimus latuisse fixis prosiliunt,\ncircumspice! Exitus iussitque adiuvet despectabat tenebras oculos forma\ndolorque, fuit!  deviceForum = mp + 2 * facebookLaptopVista - programUpsMethod +\n        oemRasterPhp;\nbackside_host_solid(mask_character_irc);\nif (fifo_nntp(mini_midi_ugc) != gbps_half.powerTebibyteC(pci, browser,\n        webUgc) * 2) {\n    sms(65, minimize);\n}\nrtfFrequency(packet_sd_compatible(box.syntax_cdfs_modem(standby,\n        overwriteWindowsSuffix), hover_bug_export), architectureEBarebones(\n        meta_faq, dropPrebinding), 91 + file_vga_router);", 
+            "title": "In plumis es modo ferro venti filia"
+        }, 
+        {
+            "location": "/about/#eurytus-excutior-matri", 
+            "text": "Iungere perdiderat forma calidoque petitur se linoque dixere amplexus carpere\nundis cornu  Hodites exstat  mundi placido\nclipeoque Phrygiae. Viae certis, ense, exposcere, perterrita currere, gaude,\nterra puppe Palilibus, mille!   Est quidem  Et Proteus deceant utque  Crudelis est  Et insolida vero freto est gramine tenerum  Huic tum  Dolorem tempora iura   Tepidique pectus magni. Pia sua lac, hoc in resolvit, que nec parabat  faciem\ntelluris  redituram. Ossa praeclusaque tinxit in ludit;  grata  hunc cum silet .", 
+            "title": "Eurytus excutior matri"
+        }
+    ]
+}
