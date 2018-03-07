@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u6b22\u8fce\u6765\u5230 Blocks.tech\n\uf0c1\n\n\n\n\n\u6211\u4eec\u7684\u7f51\u7ad9\n\uf0c1\n\n\n\u533a\u5757\u94fe\u5bfc\u822a\n\n\n\u94fe\u95fb", 
+            "text": "\u6b22\u8fce\u6765\u5230 Blocks.tech\n\uf0c1\n\n\n\n\n\u6211\u4eec\u7684\u7f51\u7ad9\n\uf0c1\n\n\n \n\u533a\u5757\u94fe\u5bfc\u822a\n\n\n \n\u94fe\u95fb\n\n\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\n, \np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\n.", 
             "title": "\u9996\u9875"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#_1", 
-            "text": "\u533a\u5757\u94fe\u5bfc\u822a  \u94fe\u95fb", 
+            "text": "\u533a\u5757\u94fe\u5bfc\u822a    \u94fe\u95fb  p(x|y) = \\frac{p(y|x)p(x)}{p(y)} p(x|y) = \\frac{p(y|x)p(x)}{p(y)} ,  p(x|y) = \\frac{p(y|x)p(x)}{p(y)} p(x|y) = \\frac{p(y|x)p(x)}{p(y)} .", 
             "title": "\u6211\u4eec\u7684\u7f51\u7ad9"
         }, 
         {
@@ -114,6 +114,31 @@
             "location": "/tips/virtualenv/#_3", 
             "text": "virtualenvwrapper \u53c2\u8003  \u5b98\u65b9\u6587\u6863", 
             "title": "\u76f8\u5173\u6587\u6863"
+        }, 
+        {
+            "location": "/tips/render_math/", 
+            "text": "\u5982\u4f55\u6e32\u67d3\u6570\u636e\u516c\u5f0f\n\uf0c1\n\n\n\n\n\u5b89\u88c5 \nPyMdown Extensions\n\uf0c1\n\n\npip install pymdown-extensions\n\n\n\n\n\u4ee5 mkdocs \u4e3a\u4f8b\uff1a\n\uf0c1\n\n\n\u5728 mkdocs.yml \u4e2d\u52a0\u5165\u4ee5\u4e0b\u914d\u7f6e\uff1a\n\n\nmarkdown_extensions:\n    - pymdownx.arithmatex\n\nextra_javascript: [\nhttps://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML\n,\n  \njs/mathjaxhelper.js\n,\n]\n\n\n\n\n\u6e32\u67d3\u6570\u5b66\u516c\u5f0f\n\uf0c1\n\n\n$p(x|y) = \\frac{p(y|x)p(x)}{p(y)}$, \\(p(x|y) = \\frac{p(y|x)p(x)}{p(y)}\\).\n\n\n\n\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\n, \np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\n.", 
+            "title": "Markdown \u6e32\u67d3\u6570\u5b66\u516c\u5f0f"
+        }, 
+        {
+            "location": "/tips/render_math/#_1", 
+            "text": "", 
+            "title": "\u5982\u4f55\u6e32\u67d3\u6570\u636e\u516c\u5f0f"
+        }, 
+        {
+            "location": "/tips/render_math/#pymdown-extensions", 
+            "text": "pip install pymdown-extensions", 
+            "title": "\u5b89\u88c5 PyMdown Extensions"
+        }, 
+        {
+            "location": "/tips/render_math/#mkdocs", 
+            "text": "\u5728 mkdocs.yml \u4e2d\u52a0\u5165\u4ee5\u4e0b\u914d\u7f6e\uff1a  markdown_extensions:\n    - pymdownx.arithmatex\n\nextra_javascript: [ https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML ,\n   js/mathjaxhelper.js ,\n]", 
+            "title": "\u4ee5 mkdocs \u4e3a\u4f8b\uff1a"
+        }, 
+        {
+            "location": "/tips/render_math/#_2", 
+            "text": "$p(x|y) = \\frac{p(y|x)p(x)}{p(y)}$, \\(p(x|y) = \\frac{p(y|x)p(x)}{p(y)}\\).  p(x|y) = \\frac{p(y|x)p(x)}{p(y)} p(x|y) = \\frac{p(y|x)p(x)}{p(y)} ,  p(x|y) = \\frac{p(y|x)p(x)}{p(y)} p(x|y) = \\frac{p(y|x)p(x)}{p(y)} .", 
+            "title": "\u6e32\u67d3\u6570\u5b66\u516c\u5f0f"
         }, 
         {
             "location": "/about/chainnews/", 
