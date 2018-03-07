@@ -17,12 +17,12 @@
         }, 
         {
             "location": "/baryon/", 
-            "text": "\u57fa\u672c\u73af\u5883\n\uf0c1\n\n\n\n\n\n\n\u7cfb\u7edf\u73af\u5883\uff1a Ubuntu 16.04 LTS\n\n\n\u6570\u636e\u5e93\uff1aMySQL 5.6\n\n\n\u5f00\u53d1\u8bed\u8a00\uff1a Python3.6\n\n\n\n\nWeb Framework\n\uf0c1\n\n\n\n\n\n\nDjango-1.11\n\n\ndjango-rest-framework 3.7.3\n\n\n\n\nAPI \u6587\u6863\n\uf0c1\n\n\n\n\nhttps://api.chainnews.com/api/schema/", 
+            "text": "\u57fa\u672c\u73af\u5883\n\uf0c1\n\n\n\n\n\n\n\u7cfb\u7edf\u73af\u5883: Ubuntu 16.04 LTS\n\n\n\u6570\u636e\u5e93: MySQL 5.6\n\n\n\u7f13\u5b58\u7cfb\u7edf: redis\n\n\n\u5f00\u53d1\u8bed\u8a00: Python3.6\n\n\n\u56fe\u7247\u7cfb\u7edf\u4f7f\u7528: \u4e03\u725b\u4e91\n\n\n\n\nWeb Framework\n\uf0c1\n\n\n\n\n\n\nDjango-1.11\n\n\ndjango-rest-framework 3.7.3\n\n\n\n\nAPI \u6587\u6863\n\uf0c1\n\n\n\n\nhttps://api.chainnews.com/api/schema/", 
             "title": "\u5f00\u53d1\u73af\u5883"
         }, 
         {
             "location": "/baryon/#_1", 
-            "text": "\u7cfb\u7edf\u73af\u5883\uff1a Ubuntu 16.04 LTS  \u6570\u636e\u5e93\uff1aMySQL 5.6  \u5f00\u53d1\u8bed\u8a00\uff1a Python3.6", 
+            "text": "\u7cfb\u7edf\u73af\u5883: Ubuntu 16.04 LTS  \u6570\u636e\u5e93: MySQL 5.6  \u7f13\u5b58\u7cfb\u7edf: redis  \u5f00\u53d1\u8bed\u8a00: Python3.6  \u56fe\u7247\u7cfb\u7edf\u4f7f\u7528: \u4e03\u725b\u4e91", 
             "title": "\u57fa\u672c\u73af\u5883"
         }, 
         {
@@ -36,34 +36,99 @@
             "title": "API \u6587\u6863"
         }, 
         {
+            "location": "/tips/virtualenv/", 
+            "text": "\u521b\u5efa\u865a\u62df\u73af\u5883\n\uf0c1\n\n\n\n\n\u5b89\u88c5 python \u865a\u62df\u73af\u5883\n\uf0c1\n\n\npip install virtualenv virtualenvwrapper\n\n\n\n\n\u521b\u5efa\u865a\u62df\u73af\u5883\n\uf0c1\n\n\nsource /usr/local/bin/virtualenvwrapper.sh\nmkvirtualenv baryon\n\n\n\n\n\u76f8\u5173\u6587\u6863\n\uf0c1\n\n\n\n\nvirtualenvwrapper \u53c2\u8003\n\n\n\u5b98\u65b9\u6587\u6863", 
+            "title": "\u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#_1", 
+            "text": "", 
+            "title": "\u521b\u5efa\u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#python", 
+            "text": "pip install virtualenv virtualenvwrapper", 
+            "title": "\u5b89\u88c5 python \u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#_2", 
+            "text": "source /usr/local/bin/virtualenvwrapper.sh\nmkvirtualenv baryon", 
+            "title": "\u521b\u5efa\u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#_3", 
+            "text": "virtualenvwrapper \u53c2\u8003  \u5b98\u65b9\u6587\u6863", 
+            "title": "\u76f8\u5173\u6587\u6863"
+        }, 
+        {
             "location": "/quark/", 
             "text": "", 
             "title": "\u5f00\u53d1\u73af\u5883"
         }, 
         {
-            "location": "/about/", 
-            "text": "Seque ira sacerdos\n\uf0c1\n\n\nSupersunt nexus parientem\n\uf0c1\n\n\nLorem markdownum longos amore: novas pacem: quam cum telum alii, undis, et vale.\nAram peregit levavit sagittam. Eam suos nepotes implet! Terque sum.\n\n\ndsl_dns_volume.cifs_caps.daemonUserSector(icq_cms, vle_ppc +\n        tokenGraymailWan + 755807, 2);\nvar right = adf;\ngraphics(rjVdu, topologyConstantParity(virus_card), touchscreenMmsDvd(\n        wavelength, prebinding) + repeater_user_website);\n\n\n\nIn plumis es modo ferro venti filia\n\uf0c1\n\n\nHydrae orbem enim ergo in saecula irata et medio, gramen Lyciamque respicit\nsertis praecipiunt. Soror ea harenam inquit Molossa quattuor plectro quinquennia\nplantis dumque. Sanguine invidiosa, quod collige, cuncta? Aut \nauctore ponitur\n:\nfuit condidit et, dat qua igne Praebuimus latuisse fixis prosiliunt,\ncircumspice! Exitus iussitque adiuvet despectabat tenebras oculos forma\ndolorque, fuit!\n\n\ndeviceForum = mp + 2 * facebookLaptopVista - programUpsMethod +\n        oemRasterPhp;\nbackside_host_solid(mask_character_irc);\nif (fifo_nntp(mini_midi_ugc) != gbps_half.powerTebibyteC(pci, browser,\n        webUgc) * 2) {\n    sms(65, minimize);\n}\nrtfFrequency(packet_sd_compatible(box.syntax_cdfs_modem(standby,\n        overwriteWindowsSuffix), hover_bug_export), architectureEBarebones(\n        meta_faq, dropPrebinding), 91 + file_vga_router);\n\n\n\nEurytus excutior matri\n\uf0c1\n\n\nIungere perdiderat forma calidoque petitur se linoque dixere amplexus carpere\nundis cornu \nHodites exstat\n mundi placido\nclipeoque Phrygiae. Viae certis, ense, exposcere, perterrita currere, gaude,\nterra puppe Palilibus, mille!\n\n\n\n\nEst quidem\n\n\nEt Proteus deceant utque\n\n\nCrudelis est\n\n\nEt insolida vero freto est gramine tenerum\n\n\nHuic tum\n\n\nDolorem tempora iura\n\n\n\n\nTepidique pectus magni. Pia sua lac, hoc in resolvit, que nec parabat \nfaciem\ntelluris\n redituram. Ossa praeclusaque tinxit in ludit; \ngrata\n hunc cum\n\nsilet\n.", 
-            "title": "\u5173\u4e8e"
+            "location": "/tips/virtualenv/", 
+            "text": "\u521b\u5efa\u865a\u62df\u73af\u5883\n\uf0c1\n\n\n\n\n\u5b89\u88c5 python \u865a\u62df\u73af\u5883\n\uf0c1\n\n\npip install virtualenv virtualenvwrapper\n\n\n\n\n\u521b\u5efa\u865a\u62df\u73af\u5883\n\uf0c1\n\n\nsource /usr/local/bin/virtualenvwrapper.sh\nmkvirtualenv baryon\n\n\n\n\n\u76f8\u5173\u6587\u6863\n\uf0c1\n\n\n\n\nvirtualenvwrapper \u53c2\u8003\n\n\n\u5b98\u65b9\u6587\u6863", 
+            "title": "\u865a\u62df\u73af\u5883"
         }, 
         {
-            "location": "/about/#seque-ira-sacerdos", 
+            "location": "/tips/virtualenv/#_1", 
             "text": "", 
-            "title": "Seque ira sacerdos"
+            "title": "\u521b\u5efa\u865a\u62df\u73af\u5883"
         }, 
         {
-            "location": "/about/#supersunt-nexus-parientem", 
-            "text": "Lorem markdownum longos amore: novas pacem: quam cum telum alii, undis, et vale.\nAram peregit levavit sagittam. Eam suos nepotes implet! Terque sum.  dsl_dns_volume.cifs_caps.daemonUserSector(icq_cms, vle_ppc +\n        tokenGraymailWan + 755807, 2);\nvar right = adf;\ngraphics(rjVdu, topologyConstantParity(virus_card), touchscreenMmsDvd(\n        wavelength, prebinding) + repeater_user_website);", 
-            "title": "Supersunt nexus parientem"
+            "location": "/tips/virtualenv/#python", 
+            "text": "pip install virtualenv virtualenvwrapper", 
+            "title": "\u5b89\u88c5 python \u865a\u62df\u73af\u5883"
         }, 
         {
-            "location": "/about/#in-plumis-es-modo-ferro-venti-filia", 
-            "text": "Hydrae orbem enim ergo in saecula irata et medio, gramen Lyciamque respicit\nsertis praecipiunt. Soror ea harenam inquit Molossa quattuor plectro quinquennia\nplantis dumque. Sanguine invidiosa, quod collige, cuncta? Aut  auctore ponitur :\nfuit condidit et, dat qua igne Praebuimus latuisse fixis prosiliunt,\ncircumspice! Exitus iussitque adiuvet despectabat tenebras oculos forma\ndolorque, fuit!  deviceForum = mp + 2 * facebookLaptopVista - programUpsMethod +\n        oemRasterPhp;\nbackside_host_solid(mask_character_irc);\nif (fifo_nntp(mini_midi_ugc) != gbps_half.powerTebibyteC(pci, browser,\n        webUgc) * 2) {\n    sms(65, minimize);\n}\nrtfFrequency(packet_sd_compatible(box.syntax_cdfs_modem(standby,\n        overwriteWindowsSuffix), hover_bug_export), architectureEBarebones(\n        meta_faq, dropPrebinding), 91 + file_vga_router);", 
-            "title": "In plumis es modo ferro venti filia"
+            "location": "/tips/virtualenv/#_2", 
+            "text": "source /usr/local/bin/virtualenvwrapper.sh\nmkvirtualenv baryon", 
+            "title": "\u521b\u5efa\u865a\u62df\u73af\u5883"
         }, 
         {
-            "location": "/about/#eurytus-excutior-matri", 
-            "text": "Iungere perdiderat forma calidoque petitur se linoque dixere amplexus carpere\nundis cornu  Hodites exstat  mundi placido\nclipeoque Phrygiae. Viae certis, ense, exposcere, perterrita currere, gaude,\nterra puppe Palilibus, mille!   Est quidem  Et Proteus deceant utque  Crudelis est  Et insolida vero freto est gramine tenerum  Huic tum  Dolorem tempora iura   Tepidique pectus magni. Pia sua lac, hoc in resolvit, que nec parabat  faciem\ntelluris  redituram. Ossa praeclusaque tinxit in ludit;  grata  hunc cum silet .", 
-            "title": "Eurytus excutior matri"
+            "location": "/tips/virtualenv/#_3", 
+            "text": "virtualenvwrapper \u53c2\u8003  \u5b98\u65b9\u6587\u6863", 
+            "title": "\u76f8\u5173\u6587\u6863"
+        }, 
+        {
+            "location": "/tips/virtualenv/", 
+            "text": "\u521b\u5efa\u865a\u62df\u73af\u5883\n\uf0c1\n\n\n\n\n\u5b89\u88c5 python \u865a\u62df\u73af\u5883\n\uf0c1\n\n\npip install virtualenv virtualenvwrapper\n\n\n\n\n\u521b\u5efa\u865a\u62df\u73af\u5883\n\uf0c1\n\n\nsource /usr/local/bin/virtualenvwrapper.sh\nmkvirtualenv baryon\n\n\n\n\n\u76f8\u5173\u6587\u6863\n\uf0c1\n\n\n\n\nvirtualenvwrapper \u53c2\u8003\n\n\n\u5b98\u65b9\u6587\u6863", 
+            "title": "Python \u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#_1", 
+            "text": "", 
+            "title": "\u521b\u5efa\u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#python", 
+            "text": "pip install virtualenv virtualenvwrapper", 
+            "title": "\u5b89\u88c5 python \u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#_2", 
+            "text": "source /usr/local/bin/virtualenvwrapper.sh\nmkvirtualenv baryon", 
+            "title": "\u521b\u5efa\u865a\u62df\u73af\u5883"
+        }, 
+        {
+            "location": "/tips/virtualenv/#_3", 
+            "text": "virtualenvwrapper \u53c2\u8003  \u5b98\u65b9\u6587\u6863", 
+            "title": "\u76f8\u5173\u6587\u6863"
+        }, 
+        {
+            "location": "/about/chainnews/", 
+            "text": "\u5173\u4e8e\u6211\u4eec\n\uf0c1\n\n\n\u77ed\u77ed\u51e0\u5e74\u65f6\u95f4\uff0c\u4f34\u968f\u7740\u533a\u5757\u94fe\u6280\u672f\u7684\u4e0d\u65ad\u6df1\u5165\u53d1\u5c55\uff0c\u52a0\u5bc6\u6570\u5b57\u8d27\u5e01\u7684\u5e02\u503c\u4e00\u8def\u75af\u6da8\u3002\u5927\u5bb6\u6e34\u671b\u5f97\u5230\u771f\u5b9e\u3001\u6709\u6548\u7684\u5e02\u573a\u8d44\u8baf\uff0c\u624d\u80fd\u628a\u63e1\u597d\u6295\u8d44\u65f6\u673a\u3002\n\n\n\u4e92\u8054\u7f51\u4e0a\u5145\u65a5\u7740\u826f\u83a0\u4e0d\u9f50\u7684\u5206\u6790\u62a5\u9053\u3001\u5c0f\u9053\u6d88\u606f\uff0c\u533a\u5757\u94fe\u53c8\u662f\u76f8\u5bf9\u9ad8\u95e8\u69db\u7684\u6280\u672f\u77e5\u8bc6\u3001\u4e13\u4e1a\u672f\u8bed\uff0c\u4e0e\u5176\u6d4f\u89c8\u5927\u91cf\u6ca1\u6709\u88ab\u7cfb\u7edf\u5f52\u7eb3\u3001\u4f3c\u662f\u800c\u975e\u3001\u8bed\u7109\u4e0d\u8be6\u7684\u6d88\u606f\uff0c\u4e0d\u5982\u7531\u6d45\u5165\u6df1\u3001\u6e05\u6670\u7b80\u7ec3\u5730\u4e00\u6b65\u6b65\u5b66\u4e60\u3001\u8fdb\u9636\u3002\n\n\n\u6211\u4eec\u6b63\u6253\u7b97\u5728\u8fd9\u4e2a\u4e16\u754c\u4ece\u4fe1\u606f\u5f80\u4ef7\u503c\u4ea4\u6362\u8f6c\u53d8\u7684\u8def\u4e0a\uff0c\u505a\u4e00\u4e9b\u4e8b\u60c5\u2014\u2014\u8ba9\u5927\u4f17\u66f4\u5bb9\u6613\u5730\uff0c\u5b66\u4e60\u548c\u5e94\u7528\u533a\u5757\u94fe\u3002\n\n\n\u5b66\u4e60\u533a\u5757\u94fe\uff0c\u4ece\u8fd9\u91cc\u5f00\u59cb\uff01\n\n\nhttps://www.chainnews.com/\n\n\n\n\n\u5f00\u542f\u672a\u77e5\u7684\u533a\u5757\u94fe\u4e4b\u65c5\uff0c\u6df1\u5165\u72ec\u5230\u7684\u89c1\u89e3\u3001\u7ec6\u81f4\u8be6\u5c3d\u7684\u4fe1\u606f\u3002\n\n\n\u94fe\u95fb ChainNews \u521b\u5efa\u4e8e 2017 \u5e74 11 \u6708\uff0c\u65e8\u5728\u4e3a\u4e2d\u56fd\u7684 FinTech \u91d1\u878d\u79d1\u6280\u83c1\u82f1\u4e0e\u51b3\u7b56\u8005\u4eec\u63d0\u4f9b\u6bcf\u65e5\u4e0d\u53ef\u6216\u7f3a\u7684\u533a\u5757\u94fe\u65b0\u95fb\u3001\u6df1\u5ea6\u5206\u6790\u4ee5\u53ca\u8bc4\u8bba\u3002\n\n\n\u51ed\u501f\u904d\u5e03\u5168\u7403\u7684\u4e30\u5bcc\u62a5\u9053\u8d44\u6e90\uff0c\u5168\u7403\u9886\u5148\u533a\u5757\u94fe\u521b\u4e1a\u56e2\u961f\u7684\u4e00\u7ebf\u91c7\u8bbf\u62a5\u9053\uff0c\u7ed3\u5408\u57fa\u4e8e\u6570\u636e\u6316\u6398\u7684\u63a8\u8350\u5f15\u64ce\uff0cChainNews \u6df1\u5165\u5206\u6790\u5bf9\u533a\u5757\u94fe\u6280\u672f\u53ca\u8d44\u4ea7\u5177\u6709\u5f71\u54cd\u529b\u7684\u91cd\u5927\u4e8b\u4ef6\uff0c\u5e76\u63ed\u793a\u4e8b\u4ef6\u7684\u6765\u9f99\u53bb\u8109\uff0c\u4ee5\u771f\u6b63\u5bcc\u6709\u56fd\u9645\u89c6\u91ce\u7684\u6743\u5a01\u62a5\u9053\u3001\u6570\u636e\u6316\u6398\u4e0e\u5206\u6790\u62a5\u544a\uff0c\u6210\u4e3a\u533a\u5757\u94fe\u76f8\u5173\u9ad8\u7ea7\u7ba1\u7406\u4eba\u5458\u5fc5\u8bfb\u7684\u91d1\u878d\u79d1\u6280\u8d44\u8baf\u7f51\u7ad9\uff0c\u6253\u9020\u4e1a\u754c\u9886\u5148\u7684\u533a\u5757\u94fe\u5a92\u4f53\u54c1\u724c\u3002\n\n\n\n\n\u6350\u8d60\u5730\u5740\n\uf0c1\n\n\n \u6bd4\u7279\u5e01 BTC \n\n\n127X8Pzvmf9eUJVVV8ZFXMn6DKeQmWLy3y\n\n\n\n\n \u4ee5\u592a\u574a ETH \n\n\n0x0EFE3c5924d0b73c9B61D427065461795d3090Ec\n\n\n\n\n\n\n\u5546\u52a1\u5408\u4f5c bd@blocks.tech", 
+            "title": "\u94fe\u95fb"
+        }, 
+        {
+            "location": "/about/chainnews/#_1", 
+            "text": "\u77ed\u77ed\u51e0\u5e74\u65f6\u95f4\uff0c\u4f34\u968f\u7740\u533a\u5757\u94fe\u6280\u672f\u7684\u4e0d\u65ad\u6df1\u5165\u53d1\u5c55\uff0c\u52a0\u5bc6\u6570\u5b57\u8d27\u5e01\u7684\u5e02\u503c\u4e00\u8def\u75af\u6da8\u3002\u5927\u5bb6\u6e34\u671b\u5f97\u5230\u771f\u5b9e\u3001\u6709\u6548\u7684\u5e02\u573a\u8d44\u8baf\uff0c\u624d\u80fd\u628a\u63e1\u597d\u6295\u8d44\u65f6\u673a\u3002  \u4e92\u8054\u7f51\u4e0a\u5145\u65a5\u7740\u826f\u83a0\u4e0d\u9f50\u7684\u5206\u6790\u62a5\u9053\u3001\u5c0f\u9053\u6d88\u606f\uff0c\u533a\u5757\u94fe\u53c8\u662f\u76f8\u5bf9\u9ad8\u95e8\u69db\u7684\u6280\u672f\u77e5\u8bc6\u3001\u4e13\u4e1a\u672f\u8bed\uff0c\u4e0e\u5176\u6d4f\u89c8\u5927\u91cf\u6ca1\u6709\u88ab\u7cfb\u7edf\u5f52\u7eb3\u3001\u4f3c\u662f\u800c\u975e\u3001\u8bed\u7109\u4e0d\u8be6\u7684\u6d88\u606f\uff0c\u4e0d\u5982\u7531\u6d45\u5165\u6df1\u3001\u6e05\u6670\u7b80\u7ec3\u5730\u4e00\u6b65\u6b65\u5b66\u4e60\u3001\u8fdb\u9636\u3002  \u6211\u4eec\u6b63\u6253\u7b97\u5728\u8fd9\u4e2a\u4e16\u754c\u4ece\u4fe1\u606f\u5f80\u4ef7\u503c\u4ea4\u6362\u8f6c\u53d8\u7684\u8def\u4e0a\uff0c\u505a\u4e00\u4e9b\u4e8b\u60c5\u2014\u2014\u8ba9\u5927\u4f17\u66f4\u5bb9\u6613\u5730\uff0c\u5b66\u4e60\u548c\u5e94\u7528\u533a\u5757\u94fe\u3002  \u5b66\u4e60\u533a\u5757\u94fe\uff0c\u4ece\u8fd9\u91cc\u5f00\u59cb\uff01  https://www.chainnews.com/   \u5f00\u542f\u672a\u77e5\u7684\u533a\u5757\u94fe\u4e4b\u65c5\uff0c\u6df1\u5165\u72ec\u5230\u7684\u89c1\u89e3\u3001\u7ec6\u81f4\u8be6\u5c3d\u7684\u4fe1\u606f\u3002  \u94fe\u95fb ChainNews \u521b\u5efa\u4e8e 2017 \u5e74 11 \u6708\uff0c\u65e8\u5728\u4e3a\u4e2d\u56fd\u7684 FinTech \u91d1\u878d\u79d1\u6280\u83c1\u82f1\u4e0e\u51b3\u7b56\u8005\u4eec\u63d0\u4f9b\u6bcf\u65e5\u4e0d\u53ef\u6216\u7f3a\u7684\u533a\u5757\u94fe\u65b0\u95fb\u3001\u6df1\u5ea6\u5206\u6790\u4ee5\u53ca\u8bc4\u8bba\u3002  \u51ed\u501f\u904d\u5e03\u5168\u7403\u7684\u4e30\u5bcc\u62a5\u9053\u8d44\u6e90\uff0c\u5168\u7403\u9886\u5148\u533a\u5757\u94fe\u521b\u4e1a\u56e2\u961f\u7684\u4e00\u7ebf\u91c7\u8bbf\u62a5\u9053\uff0c\u7ed3\u5408\u57fa\u4e8e\u6570\u636e\u6316\u6398\u7684\u63a8\u8350\u5f15\u64ce\uff0cChainNews \u6df1\u5165\u5206\u6790\u5bf9\u533a\u5757\u94fe\u6280\u672f\u53ca\u8d44\u4ea7\u5177\u6709\u5f71\u54cd\u529b\u7684\u91cd\u5927\u4e8b\u4ef6\uff0c\u5e76\u63ed\u793a\u4e8b\u4ef6\u7684\u6765\u9f99\u53bb\u8109\uff0c\u4ee5\u771f\u6b63\u5bcc\u6709\u56fd\u9645\u89c6\u91ce\u7684\u6743\u5a01\u62a5\u9053\u3001\u6570\u636e\u6316\u6398\u4e0e\u5206\u6790\u62a5\u544a\uff0c\u6210\u4e3a\u533a\u5757\u94fe\u76f8\u5173\u9ad8\u7ea7\u7ba1\u7406\u4eba\u5458\u5fc5\u8bfb\u7684\u91d1\u878d\u79d1\u6280\u8d44\u8baf\u7f51\u7ad9\uff0c\u6253\u9020\u4e1a\u754c\u9886\u5148\u7684\u533a\u5757\u94fe\u5a92\u4f53\u54c1\u724c\u3002", 
+            "title": "\u5173\u4e8e\u6211\u4eec"
+        }, 
+        {
+            "location": "/about/chainnews/#_2", 
+            "text": "\u6bd4\u7279\u5e01 BTC   127X8Pzvmf9eUJVVV8ZFXMn6DKeQmWLy3y   \u4ee5\u592a\u574a ETH   0x0EFE3c5924d0b73c9B61D427065461795d3090Ec   \u5546\u52a1\u5408\u4f5c bd@blocks.tech", 
+            "title": "\u6350\u8d60\u5730\u5740"
         }
     ]
 }
