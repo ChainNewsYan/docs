@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u6b22\u8fce\u6765\u5230 Blocks.tech\n\uf0c1\n\n\n\n\n\u6211\u4eec\u7684\u7f51\u7ad9\n\uf0c1\n\n\n\u533a\u5757\u94fe\u5bfc\u822a\n\n\n\u94fe\u95fb\n\n\n\u8fd0\u884c\u73af\u5883\n\uf0c1\n\n\n\n\nUbuntu 16.04 LTS\n\n\n\n\nNginx\n\n\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\uf0c1\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "\u6b22\u8fce\u6765\u5230 Blocks.tech\n\uf0c1\n\n\n\n\n\u6211\u4eec\u7684\u7f51\u7ad9\n\uf0c1\n\n\n\u533a\u5757\u94fe\u5bfc\u822a\n\n\n\u94fe\u95fb", 
             "title": "\u9996\u9875"
         }, 
         {
@@ -14,16 +14,6 @@
             "location": "/#_1", 
             "text": "\u533a\u5757\u94fe\u5bfc\u822a  \u94fe\u95fb", 
             "title": "\u6211\u4eec\u7684\u7f51\u7ad9"
-        }, 
-        {
-            "location": "/#_2", 
-            "text": "Ubuntu 16.04 LTS   Nginx    mkdocs new [dir-name]  - Create a new project.   mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "\u8fd0\u884c\u73af\u5883"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
         }, 
         {
             "location": "/about/", 
